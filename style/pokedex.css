@@ -70,6 +70,23 @@
   max-height: 75px;
 }
 
+.pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+}
+
+#loadMoreButton {
+  border-radius: 1rem;
+  border: 2px solid royalblue;
+  background-color: yellowgreen;
+  color: white;
+  padding: 1rem;
+}
+
 .normal {
   background-color: #a6a877;
 }
