@@ -32,6 +32,11 @@
   flex-direction: column;
 }
 
+h1{
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
 .details{
   display: flex;
   flex-direction: row;
